@@ -1,6 +1,6 @@
 cask "humon" do
-  version "0.1.5"
-  sha256 "135f4be792ca44d557c4cde9b1cc6f12da479c806cb73bb1a27370a62eec85a7"
+  version "0.1.6"
+  sha256 "9c9783b6a4ef210055ab65163119424f124ee3a326e44027e79d20e77373700a"
 
   url "https://github.com/yldrmzffr/humon/releases/download/v#{version}/humon-#{version}-macos-universal.zip"
   name "humon"
